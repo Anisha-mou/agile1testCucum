@@ -24,7 +24,7 @@ And user should be navigated to the dashboard
 
 Examples:
 |email                |password|
-|vic@doe.com        |njffknkd|
+|vic@doe.com        |"32355"|
 |second@gmail.com   |"jdjjf52"|
 |thirdjhon@doe.com  |"hkdhkd@ndnn?"|
 
